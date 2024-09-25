@@ -14,5 +14,5 @@ main(){
 	} else {
 		printf("Você é menor de idade");
 	}
-
+;/
 }
